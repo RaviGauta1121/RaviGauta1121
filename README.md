@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ravi Gautam
 
-## 🚀 Full Stack Developer | Front-End Enthusiast | Hackathon Winner
+## 🚀 Full Stack Developer | Hackathon Winner
 
 Welcome to my GitHub! I’m passionate about building intuitive web experiences, solving real-world problems with tech, and constantly learning new tools and frameworks.
 
@@ -64,11 +64,8 @@ Welcome to my GitHub! I’m passionate about building intuitive web experiences,
 ## 📈 GitHub Stats
 
 ![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaviGauta1121&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaviGauta1121&theme=radical)](https://github.com/RaviGauta1121)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaviGauta1121&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RaviGauta1121&theme=dark)](https://git.io/streak-stats)
 
 ---
 
